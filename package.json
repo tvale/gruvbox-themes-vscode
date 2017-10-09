@@ -29,6 +29,11 @@
                 "path": "./themes/dark-soft.tmTheme"
             },
             {
+                "label": "Gruvbox Dark (tvale)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gruvbox-tvale.tmTheme"
+            },
+            {
                 "label": "Gruvbox Light (Hard)",
                 "uiTheme": "vs",
                 "path": "./themes/light-hard.tmTheme"
